@@ -8,4 +8,4 @@ Checks for all whole numbers <= the square root of the current number whether th
 Checks only primes <= sqrt that have already been found. Must start at 0
 
 ## V3
-Saves and loads data from a CSV file
+Saves and loads data from a CSV file. Automatically starts at last found prime.
